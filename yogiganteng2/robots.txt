@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yogiganteng2.pages.dev/sitemap.xml
+Sitemap: https://yogiganteng2.pages.dev/feed.xml
