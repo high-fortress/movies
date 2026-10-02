@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yogoyogimovies.pages.dev/sitemap.xml
+Sitemap: https://yogoyogimovies.pages.dev/feed.xml
